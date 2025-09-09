@@ -6,11 +6,7 @@ Aquí iré almacenando código, experimentos, documentos, imágenes y recursos q
 
 ## 📂 Estructura del repositorio
 La organización prevista es la siguiente (puede variar según avance el proyecto):
-- ├── code/ # Scripts, notebooks y prototipos en distintos lenguajes
-- ├── docs/ # Documentación, artículos, notas y avances de la tesis
-- ├── images/ # Diagramas, figuras y visualizaciones
-- ├── datasets/ # Conjuntos de datos utilizados en los experimentos
-- └── references/ # Papers, libros y material bibliográfico
+- ├── benchmarks_emuladores # Pruebas de rendimiento entre los distintos emuladores (qiskit, myqlm, mpiqulacs, etc.)
 - ...
 
 ---
