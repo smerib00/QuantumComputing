@@ -4,7 +4,7 @@ This repository contains different projects, benchmarks and experiments related 
 
 ## Repository structure
 
-### 📚 Bibliography
+### Bibliography
 
 Collection of books, scientific papers and reference material related to:
 
@@ -18,7 +18,7 @@ This folder serves as the theoretical foundation for the rest of the projects.
 
 ---
 
-### 🖼️ QED (Quantum Edge Detection)
+### QED (Quantum Edge Detection)
 
 Implementation and experiments on **Quantum Edge Detection (QED)** for image processing.
 
@@ -26,7 +26,7 @@ The project explores quantum image representations and quantum circuits for edge
 
 ---
 
-### ⚡ benchmarks_emuladores
+### benchmarks_emuladores
 
 Benchmark suite for comparing different **quantum simulators/emulators** using Shor's algorithm.
 
@@ -40,7 +40,7 @@ The objective is to analyse execution time, scalability and simulator performanc
 
 ---
 
-### 🔄 benchmarks_QFT
+### benchmarks_QFT
 
 Performance benchmark of the **Quantum Fourier Transform (QFT)** implemented using different quantum software frameworks.
 
@@ -55,7 +55,7 @@ The benchmarks compare execution time and scalability across frameworks.
 
 ---
 
-### 🐑 lamb_QML
+### lamb_QML
 
 Quantum Machine Learning project for **lamb weight prediction** from image-derived morphological features.
 
