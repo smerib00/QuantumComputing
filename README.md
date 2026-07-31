@@ -123,4 +123,4 @@ The objective is to evaluate the capability of hybrid quantum machine learning m
 
 ## Author
 
-Repository maintained for research and development in **Quantum Computing** and **Quantum Machine Learning**.
+Developed by **Santiago Merino Bajo** as part of research on Quantum Computing and Quantum Machine Learning.
