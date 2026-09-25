@@ -50,7 +50,7 @@ X_test_q = scaler_quantum.transform(X_test)
 # 3. KERNEL CUÁNTICO
 feature_map = zz_feature_map(
     feature_dimension=X_train_q.shape[1],
-    reps=2,
+    reps=1,
     entanglement="linear"
 )
 sampler = Sampler()
